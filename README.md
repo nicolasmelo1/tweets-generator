@@ -69,7 +69,6 @@ await tweetGenerator.saveModel("tweet-generator-model");
 - Improve sampling algorithms for more varied outputs
 - Add support for hashtag recognition and generation
 - Implement batch generation for efficiency
-- Create a simple UI for interacting with the model
 
 ## License
 
